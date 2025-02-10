@@ -28,10 +28,10 @@ I’m extremely eager to apply the knowledge I gain to both my career and my lif
 # 📊 GitHub Stats
 
 - **Stats**  
-  ![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 - **GitHub Streaks**  
-[![GitHub Streak](https://streak-stats.demolab.com?user=mo-fr&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streaks.adarcher.app?user=mo-fr&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 - **Most used languages**  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
