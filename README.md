@@ -1,49 +1,48 @@
-# Mohamed Souare - Developer Portfolio
+# Mohamed Souare – Full-Stack Developer
 
 ## About Me
 
-Hi, I'm Mohamed Souare. I am a graduate of Belmont Charter High School and currently attend LaunchPad Philly. Before joining LaunchPad, I felt uncertain about my future—while I excelled academically, I lacked direction. As graduation approached, I realized that pushing through school wasn’t enough to prepare me for life’s challenges. That’s when I decided to join LaunchPad, and it’s been a transformative experience. 
+Hi, I'm **Mohamed Souare**, a full-stack developer with a passion for solving real-world problems through clean, efficient, and scalable code. I’m a graduate of Belmont Charter High School and currently developing my skills at **LaunchPad Philly**, where I’ve grown from a curious learner to a confident developer ready to contribute to modern tech teams.
 
-Now, I’m dedicated to mastering coding and computer programming, continuously learning from the people around me, my accomplishments, and the challenges I face.
+My journey into tech started with uncertainty but has since transformed into a purpose-driven path. I’m constantly learning—from the people around me, the projects I build, and the challenges I face. Now, I’m fully committed to mastering the technologies that power today’s digital world.
 
-## Skills & Experience
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Shield](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-- **Python Training**: Completed 200 hours of focused Python training.
-- **Programming Training**: Accumulated 700 hours of comprehensive programming training.
-- **Technical Skills**: Gained proficiency in essential workplace competencies and critical business tech support functions.
-- **Project Experience**:
-  - Created a fully functioning website in HTML as a technological solution to a real-world problem.
-  - Developed several projects combining HTML, CSS, and JavaScript.
-
-## Goals
-
-I’m extremely eager to apply the knowledge I gain to both my career and my lifestyle, and I believe it’s only up from here.
-
-# 📊 GitHub Stats
-
-- **Stats**  
-  ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-- **GitHub Streaks**  
-[![GitHub Streak](https://streaks.adarcher.app?user=mo-fr&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-- **Most used languages**  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🔹 I’ve completed **300+ hours of Python training**, strengthening my problem-solving, scripting, and back-end development skills.
 
 ---
 
-## View Counter
+## 🚀 Tech Stack
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+[![GitHub Streak](https://streaks.adarcher.app?user=mo-fr&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-fr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🔁 View Counter
 
 [![View Counter](https://visitcount.itsvg.in/api?id=mo-fr&icon=8&color=9)](https://visitcount.itsvg.in)
 
 ---
 
-## Contact
+## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-souare-8a61a2259/) or [GitHub](https://github.com/MO-fr)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-souare-8a61a2259/)
+- [GitHub](https://github.com/MO-fr)
