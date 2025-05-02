@@ -38,11 +38,12 @@ My journey into tech started with uncertainty but has since transformed into a p
 
 ## 🔁 View Counter
 
-[![View Counter](https://visitcount.itsvg.in/api?id=mo-fr&icon=8&color=9)](https://visitcount.itsvg.in)
+![Visitor Count](https://komarev.com/ghpvc/?username=mo-fr&style=for-the-badge&color=9F79EE)
 
 ---
 
 ## 📬 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/mohamed-souare-8a61a2259/)
-- [GitHub](https://github.com/MO-fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-souare-8a61a2259/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MO-fr)
+
